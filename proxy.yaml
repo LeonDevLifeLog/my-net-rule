@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,redpocket.com,PROXY
   - DOMAIN-SUFFIX,tavily.com,PROXY
   - DOMAIN-SUFFIX,omarchy.org,PROXY
+  - DOMAIN-SUFFIX,64clouds.com,PROXY
