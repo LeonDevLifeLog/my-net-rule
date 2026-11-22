@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,tavily.com,PROXY
   - DOMAIN-SUFFIX,omarchy.org,PROXY
   - DOMAIN-SUFFIX,64clouds.com,PROXY
+  - DOMAIN-SUFFIX,getoutline.com,PROXY
