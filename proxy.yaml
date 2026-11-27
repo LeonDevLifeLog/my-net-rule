@@ -11,3 +11,4 @@ payload:
   - DOMAIN-KEYWORD,withpersona,PROXY
   # 验证流程常调用的地理位置与环境接口（防止定位泄露）
   - DOMAIN-SUFFIX,maps.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,owasp.org,PROXY
